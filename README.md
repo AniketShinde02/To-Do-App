@@ -14,12 +14,12 @@ The JavaScript code adds interactivity to the app, including the ability to add 
 
 # Tech Used
 
-# HTML5
-# CSS3
-# JavaScript
-# Font Awesome (for icons)
-# Google Fonts (for Josefin Sans font)
-# Future Outcomes
+* HTML5
+* CSS3
+* JavaScript
+* Font Awesome (for icons)
+* Google Fonts (for Josefin Sans font)
+* Future Outcomes
 
 This to-do list app can be expanded to include more features, such as due dates, reminders, and prioritization.
 It can be integrated with other apps and services, such as Google Calendar or Trello.
